@@ -1,10 +1,14 @@
 # mac_setting
 ## ソフト
 - [Rectangle](https://github.com/rxhanson/Rectangle)<br>
-    `RectangleConfig.json`をインポート
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl)
-- [Mos](https://github.com/Caldis/Mos)
+    ウインドウ操作便利にするやつ<br>
+    `RectangleConfig.json`をインポート<br>
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl)<br>
+    外部ディスプレイ使う時便利なやつ<br>
+- [Mos](https://github.com/Caldis/Mos)<br>
+    マウス加速度無効&スクロール方向逆
 - [Karabiner](https://github.com/pqrs-org/Karabiner-Elements)<br>
+    マウスのサイドボタン使えるようにするやつ<br>
     [参考](https://www.unlogue.com/mac-sidebutton/)
 ## Dock表示高速化
 ```
