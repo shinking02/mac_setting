@@ -1,7 +1,5 @@
 # mac_setting
-## デバイス
-mac純正キーボード<br>
-Razer Viper<br>
-外部ディスプレイ1枚<br>
-
-## インターフェース系ソフト
+## Dock表示高速化
+```
+defaults write com.apple.dock autohide-delay -float 0; defaults write com.apple.dock autohide-time-modifier -int 1 ;killall Dock
+```
