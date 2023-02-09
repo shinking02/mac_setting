@@ -1,7 +1,7 @@
 # mac_setting
 ## ソフト
 - [Rectangle](https://rectangleapp.com)
-    !(images/01.png)
+    ![rectangle_setting](images/01.png)
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 - [Mos](https://mos.caldis.me)
 - [Karabiner](https://karabiner-elements.pqrs.org)
