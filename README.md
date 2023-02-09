@@ -1,6 +1,6 @@
 # mac_setting
 ## ソフト
-- [Rectangle](https://rectangleapp.com)
+- [Rectangle](https://rectangleapp.com)<br>
     ![rectangle_setting](images/01.png)
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 - [Mos](https://mos.caldis.me)
